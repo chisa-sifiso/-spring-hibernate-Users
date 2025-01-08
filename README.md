@@ -65,6 +65,7 @@
   Username: <code>sa</code><br>
   Password: (leave it blank)
   </p>
+  <h2>Developed by Sifiso Vinjwa</h2>
 
 </body>
 </html>
